@@ -1,0 +1,13 @@
+@import url('main.css');
+
+a, .jcarousel-prev-horizontal, .jcarousel-next-horizontal { color: #CC9500; }
+a:hover, .jcarousel-prev-horizontal:hover, .jcarousel-next-horizontal:hover { color: #F9B600; }
+
+.slideshow_info_bottom { background-color: #F9B600; }
+.slideshow_info_bottom a { color: #333; text-shadow: 0 1px 1px #FFE921; }
+.slideshow_info_bottom a:hover { color: #000; }
+#nav li.current-menu-item a { border-color: #F9B600; }
+
+.button, .cta_button { background-color: #F9B600; color: #333;
+	text-shadow: 0 1px 1px #FFE921; border-color: #CC9500; }
+.button:hover, .cta_button:hover { color: #000; }

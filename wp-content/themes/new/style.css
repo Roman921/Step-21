@@ -1,0 +1,29 @@
+/*
+Theme Name: Our theme
+Author: We
+
+Description: Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer.
+Version: 1.2
+
+*/
+
+.flex-direction-nav .flex-next {
+
+
+}
+
+body .flexslider .flex-next{
+      right: 0px !important;
+      background: #ccc;
+}
+body .flexslider .flex-prev{
+      left: 0px !important;
+      background: #ccc;
+}
+
+
+.fixed{
+	
+	display:block;
+	position:fixed;
+	}

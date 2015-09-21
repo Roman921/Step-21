@@ -1,0 +1,11 @@
+@import url('main.css');
+
+a, .jcarousel-prev-horizontal, .jcarousel-next-horizontal { color: #268C9E; }
+a:hover, .jcarousel-prev-horizontal:hover, .jcarousel-next-horizontal:hover { color: #17535E; }
+
+.slideshow_info_bottom { background-color: #268C9E; }
+#nav li.current-menu-item a { border-color: #268C9E; }
+
+.button, .cta_button { background-color: #268C9E; color: #f0f0f0;
+	text-shadow: 0 1px 1px #13444C; border-color: #217A8A; }
+.button:hover, .cta_button:hover { color: #fff; }
